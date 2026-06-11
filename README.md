@@ -30,4 +30,4 @@ Built a mobile stock-tracking assistant that allowed users to create accounts, t
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/annamalaiannamalai/)
+[LinkedIn](www.linkedin.com/in/anna-malai)
