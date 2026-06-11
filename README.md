@@ -1,5 +1,3 @@
-![Annamalai Annamalai](assets/profile.jpg)
-
 # Annamalai Annamalai
 
 **Product & technology leader building data, identity, measurement, and AI-enabled enterprise systems. Ex-Adobe, Walmart.**
