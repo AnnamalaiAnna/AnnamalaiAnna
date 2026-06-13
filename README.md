@@ -2,6 +2,14 @@
 
 **Product & technology leader building data, identity, measurement, and AI-enabled enterprise systems. Ex-Adobe, Walmart.**
 
+## Featured Technical Guide
+
+### [Adobe Data Distiller Guide](https://data-distilller.gitbook.io/adobe-data-distiller-guide)
+
+**Role:** Coauthor
+
+Public technical guide translating Adobe Data Distiller capabilities into hands-on use cases across ETL, identity resolution, audiences, business intelligence, activation, privacy, statistics, and machine learning.
+
 ## Featured Engineering Project
 
 ### [Stock Alert &mdash; iOS Stock Tracking App](https://github.com/Lilyenglert/Stock-Alert-Hack-Challenge)
@@ -30,4 +38,4 @@ Built a mobile stock-tracking assistant that allowed users to create accounts, t
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/anna-malai)
+[LinkedIn](https://www.linkedin.com/in/anna-malai/)
